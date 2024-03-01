@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip1724">
+      <path d="M 36 51.5  C 27.3975 51.5  20.5 44.6025  20.5 36  L 20.5 36  C 20.5 27.3975  27.3975 20.5  36 20.5  L 36 20.5  C 44.6025 20.5  51.5 27.3975  51.5 36  L 51.5 36  C 51.5 44.6025  44.6025 51.5  36 51.5  L 36 51.5  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -20 -20 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAHKADAAQAAAABAAAAHAAAAABkvfSiAAAC3ElEQVRIDe1WS2hTQRQ9bV8oamupiPghGhdSEBFSLQgKojs/4NYquBGXCt11r0g3haKbgiBuNOBO/FRQCUEqQotCN4IVTRq01ha1TUtM8vqe5z4zL/MmL03AipsOTGbm3jPnzOfeeQHWyv84gT5g3Qfg8jcgOQPMsnVZS1+AdBq4Nwbr8KqsS4Q+AzfKAiISVkuztH8FMuPAqXrCTbUAb4HYdmCMgM21MKZdyIrAzR3AFdOnxqGCIsZJkwRZCthoK4RLQCIGnAub02wa5RhlZ7Q3LOYSLFWKtOuB3o/AVc9g/FTtUO4swgAxcN5QJxaDrNaKxhE51gNrbxeW+ofgIOth5Ydcu+MMLN/ATmAXsjtTzCmjLUTReuGER9y8K4rIgTiatm0F2tp8vsLICxRTFcFO4DqdoUfrTSqHvh+Jc4i6zvtJd8WSy7mFxH03PzDoz9Oj2V9NWIfApA7+efTkHy2SulJZhHz+TK/7PRr3xvb4G3eaV8f8DBU0czQQNLyjffpCiqkn+LGzGzPt7Vgefe258sN3kH+Q0GGQQKgKhjKiE3a3Dg4IclJVztlZJolRapEbMG8RFNii2wOCdNi682/7KlV0noAg1RjJq1psRjnDolICgnyWXlVcK/ec7BywuIiWrj01748MVg54qDMFBElxt5H7EYzNBC8+GvHycOPAIBO+utA2ZSZ+FUpefT01pE+baz995qWBpIPyS56qIl8MZZdWxpLXpkCLaTjLR7vDeB1kR07Oxq/h2yhOvPSP0MEC3E/T4OOA0vN3fEcXfDrGQ2YIuMhkCgRi6Amm+VHdwAc4LMp8xnJHYUyiDKwjPbBHTXzgDpUzxh3KJ8YkUX69FYyJmwJOh4nJvFBBccQoygi7Jn2TUGxmEYwco+zsIPDY9Dc8vgXsT/OIVSCo4JBWVflvIwEiX5t6xI0s3uMQsvPA8U3AoVagowDMS1IngdQlYKKe0Jr/n53AbynmWrIvpE3qAAAAAElFTkSuQmCC" x="20px" y="20px" mask="url(#clip1724)" />
+    <path d="M 36 51.5  C 27.3975 51.5  20.5 44.6025  20.5 36  L 20.5 36  C 20.5 27.3975  27.3975 20.5  36 20.5  L 36 20.5  C 44.6025 20.5  51.5 27.3975  51.5 36  L 51.5 36  C 51.5 44.6025  44.6025 51.5  36 51.5  L 36 51.5  Z " stroke-width="1" stroke="#f5f5f5" fill="none" />
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip1778">
+      <path d="M 36 51.5  C 27.3975 51.5  20.5 44.6025  20.5 36  L 20.5 36  C 20.5 27.3975  27.3975 20.5  36 20.5  L 36 20.5  C 44.6025 20.5  51.5 27.3975  51.5 36  L 51.5 36  C 51.5 44.6025  44.6025 51.5  36 51.5  L 36 51.5  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -20 -20 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAHKADAAQAAAABAAAAHAAAAABkvfSiAAACjElEQVRIDe1VS2gTURQ9k8SGVLHpR3ClpkojFSOttZsoLuqiAfGzsG5cKYgFt0JduXBhN4qKYqG2LgxCxN+mUqFIhQaiJqSGQEDSdFOQmtQmNmQyTafPeUkGxpk3mYlIcOGFYe4793Puve/NG45IggaKpYFcZar/hH994v/eSD9G5nHn4WPDTscm/ZiZnTP0A/0sasmuI4PSZ9NKQuGorltyYVHyaSYcXLo+ssGQMBZPkEcTT2V/3bc/8LpmUXIgk5BWTBOsZnOyn+k3jXn24g2hhbLExhp64msSF85fAQc7egf6cXLAC3eXC517dqOj1QmHw1EO43kemdUs0ukMwtE43gc/YW4qCII1+AOTOHhgvyY9R6vQoFWAHpih4esoCgV8T4mw5Knrhsq9UnOHx4ZMQcS78VH09XjgbNmu8qsuWW0rMVe/j9wdCxBSGiEriyCpeZBYqPJQPb0g7Uoe5FWgnWCbVxnK1JkjVZYmKgbQ5gTadiitkl6qrAWhWWVgLw0JNWFVAg1uEmj4TWO6Q2ITwTXpt2G3F/SNCospws0tEtl0FxA5owhVqFYO1qR0elvSCpCtGhJaOa4Smd4KxNrZWSiaWwNEXt9etRju4dHebkQ/RwD3XmD9J9AkdcJ4wtIlcOxwtyGhYYdDpwdxyncJN65dxcp6D/BDm7PECbi5lID/1kWtUYXUvGlk374T55ArFTF17z5CI7MQ8oJsKr9H+bfIb+Sw/OXDbzhrYThSGjTzcgJiUYTbdxap4znwnk0s2ZYRJHFc/vakTBadfs7Kr8WY948OePvBOLHs85b/e9h5iKCzn1CsHjE1UnWZ2Zx0eCTRvaDVAYr1HxEq4utWTe1h3VlrBDSc8Bf3DqEDmp8mHgAAAABJRU5ErkJggg==" x="20px" y="20px" mask="url(#clip1778)" />
+    <path d="M 36 51.5  C 27.3975 51.5  20.5 44.6025  20.5 36  L 20.5 36  C 20.5 27.3975  27.3975 20.5  36 20.5  L 36 20.5  C 44.6025 20.5  51.5 27.3975  51.5 36  L 51.5 36  C 51.5 44.6025  44.6025 51.5  36 51.5  L 36 51.5  Z " stroke-width="1" stroke="#f5f5f5" fill="none" />
+  </g>
+</svg>

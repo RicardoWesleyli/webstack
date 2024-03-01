@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip1756">
+      <path d="M 36 51.5  C 27.3975 51.5  20.5 44.6025  20.5 36  L 20.5 36  C 20.5 27.3975  27.3975 20.5  36 20.5  L 36 20.5  C 44.6025 20.5  51.5 27.3975  51.5 36  L 51.5 36  C 51.5 44.6025  44.6025 51.5  36 51.5  L 36 51.5  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -20 -20 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAHKADAAQAAAABAAAAHAAAAABkvfSiAAADS0lEQVRIDbVWS0hVURRd17SCPlSDLCqiwEFBhEIFVgMHDbPAGimIRDQsqDcJNEto4GtQkyDUJNAgKMg+Y5W0oihzkAOlMOyDgRJmg/x0Wuvce9/n3vd8711qw+Wez9p7n/05+2wHhVCvKcZHnMUfXLRsRbiKnbiBKmchXzFOvkB0muNYQAfWYkNXuctVN8T/DKZRjFNocB7mLWtJYLvZjg4ziFvGxF4aMzNnEqSx1rRnMcJGJrnvtrmJNmPKnxgzMZvQExpoTxhhLU/BSuU+Md8zpmc8Xf7ItCtcCjROJWHFQ94pG4Kciu+Y/Wg3o3SPib9LFeW60rrPtUKWWIuCbhaXeCXDypLMFEomTadpxhwu1ZQB1wnZuiqJ6h4D6p5zvshvWXLdjry1rkqglrw+ff4FnHsFPCAvlqOJSdWiPVehgm0w3nMEqE4J++A34NAzon7wWyH4EvSbe+uAgcPAwc1JnD1sv51vwmlnssgOS1DKu5VQ9nMeONFLZY+5y5PmVCYhxfxmgRffNUmStZqyaaU1RbAQtbz1XJHLKp+T1mUKhb+d+s+o0AKy7yT56QmU0I1H092o+PV/TY+pz+S61J8V8qebYnsAU5+u7NowsK0bGJ7OLCwfO8KcdGHQqkSCzbjwjSvDbFqJppCMfiYqwRoGGPMPXJS/aLnieWY3xxkoskLJSqS8H5jV4WsR1BlNIROl4ikw9IXiJIG3Ob4PuLA3KD48j6aQFg15961mR7gyPfoEjLJYZDpANIU6OJUGE0fXobrPtTyWxdrsCvWGB+umFImYpRO16fVW1yH2mnvZeCxjlixtrHB34xSii22zz2Pwf35xT1wH1VthmbXKUl+Gj/f/bn7NY1JClXWiNWRsPQCMnORErwYtykS23jJ5bL0VgFi5+X6VK0NLVqa0zIGR9V8LjTpNIxevlG8hiE/NrvVadElJcKyPY57eWqFlFWTj/XnAHM/TZT5PzUR7z5NGIj1TDu5SWKXKltwia0W64Crq8fecOPw8ZUGcsDaebyxmjAesQ73Dl3EpcluMqf/fYgQPkdJEBfuX1AYkYxOlJiwStZnSf9kmKhr5kdy8iFaWsjIliMj2OfOFNcL5K3R1gNaeZ1JFbvX/AmngJWnikPTOAAAAAElFTkSuQmCC" x="20px" y="20px" mask="url(#clip1756)" />
+    <path d="M 36 51.5  C 27.3975 51.5  20.5 44.6025  20.5 36  L 20.5 36  C 20.5 27.3975  27.3975 20.5  36 20.5  L 36 20.5  C 44.6025 20.5  51.5 27.3975  51.5 36  L 51.5 36  C 51.5 44.6025  44.6025 51.5  36 51.5  L 36 51.5  Z " stroke-width="1" stroke="#f5f5f5" fill="none" />
+  </g>
+</svg>

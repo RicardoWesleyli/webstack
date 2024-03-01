@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip1734">
+      <path d="M 36 51.5  C 27.3975 51.5  20.5 44.6025  20.5 36  L 20.5 36  C 20.5 27.3975  27.3975 20.5  36 20.5  L 36 20.5  C 44.6025 20.5  51.5 27.3975  51.5 36  L 51.5 36  C 51.5 44.6025  44.6025 51.5  36 51.5  L 36 51.5  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -20 -20 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAHKADAAQAAAABAAAAHAAAAABkvfSiAAACnUlEQVRIDe2VTWgTQRTH/9tkU9vGthAr/cCvm+2hFEWsihatSnPQi8WTehF6EIuighcPHsSTVrSlvauHIhERqYpSxPqBBw2CSg8KfjV+NdGWhFo2Sdd5E3ays9vd7IL01LnM7Ju377fvP/PeKri3RccCjrIFZHHUIvC/Kx70HVHPAbmfhdeCEUBZ4iuEvzPUZwF1GV5uHsF4xyM017QD+SlfQMVzWXBYPbTO21CVgIBse3EKT1L3gUCtsLktvGU4lwFCK2wwCjzWfgFbI12eMy0NJFj5Gmg7YlJmmeyMSISg0eV7PUHdgQSrWAu985YEq37ag6Wju5HSpgX07obz2FffXRLqDDRg24dFUFq0PD+K9J+HQLAW5Yoq7cXWny1AswnJbn6YH+gAo8zGUyNAZRs/z7BaaY7F1wQ90HQYcIDa65BuY1Ur9I6rUjCC8cwYjCR2G9fWneHb13/EgLKw5GrPMPsdyU39wimr56E8PlSAhTdy2JHXF7mN9pwGh1pg5GsHMmO1WvyqxAzrKtNMRoKx8yTY0Jc+IBPH5OxvJ17Bzs4Z1JlMww4M1uH020HhsrqqEdqeXzJMbUBy1zM0VtQJP+vi5sQo8Pcda33yqdmBTIZLn/pw4k1RVuosVAI8M/ZB6Z1jiIRqrAzxTLDu+H7WBpuEzVjYgbTDHK1QAqSj76FFX2F44gEOxs8ZMaRZwELNkt14cO+l7Gr3rjqGK63HDX/QRQndWcmu/Td87EqAJDdGKRj5yQIbbxozy7T/82Xk5vIYbDvJrSQvZZrUpnzDKMD8khpAmhl06OsAl9AoAyp4c2YDH24UzsxBRnM4d0nNntR9cpPMwhqDdQQaPP+e3CU1B6YiDhXr07zlZ11aUj/RPPguAj2I5M/lH8x86Ij+XitlAAAAAElFTkSuQmCC" x="20px" y="20px" mask="url(#clip1734)" />
+    <path d="M 36 51.5  C 27.3975 51.5  20.5 44.6025  20.5 36  L 20.5 36  C 20.5 27.3975  27.3975 20.5  36 20.5  L 36 20.5  C 44.6025 20.5  51.5 27.3975  51.5 36  L 51.5 36  C 51.5 44.6025  44.6025 51.5  36 51.5  L 36 51.5  Z " stroke-width="1" stroke="#f5f5f5" fill="none" />
+  </g>
+</svg>
